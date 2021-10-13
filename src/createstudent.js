@@ -47,7 +47,7 @@ return (
    }
   </div>
   <div class="row mt-3" >
-  <input type="submit" class="btn-sm btn-primary ms-3" style={{"width":"25%"}} disabled={loading}/>
+  <input type="submit" value="submit" class="btn-sm btn-primary ms-3" style={{"width":"25%"}} disabled={loading}/>
   </div>
   </div>
   </form> 
